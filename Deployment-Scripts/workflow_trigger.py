@@ -7,9 +7,8 @@ TOKEN= str(sys.argv[1])
 OWNER= str(sys.argv[2])
 REPO= str(sys.argv[3])
 Workflow_Name= str(sys.argv[4])
-print("The Print out areeeeeeeeee ",sys.argv, sys.argv[5], sys.argv[6])
 pl_Baseline_Number= str(sys.argv[5])
-pl_Baseline_Revision = str(sys.argv[6])
+pl_Baseline_Revision = str(sys.argv[5])
 
 
 print( "the toke value is")
